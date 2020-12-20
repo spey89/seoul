@@ -1,0 +1,6 @@
+VMAX250F    2E * (Broadwell 2.2 GHz * 24 Core * 4 Ctl + 2,048 GB + 32 Port + 50 Drive)    P1.1PB    R5(3+1,7+1) R6(6+2)
+VMAX950F    8E * (Broadwell 2.3 GHz * 36 Core * 16 Ctl + 2,048 GB + 24 port + 240 Drive)  P4.3PB    R5(7+1) R6(14+2)
+PMAX2000    2E * (2.5 GHz * 24 Core * 4 Ctl + 2,048 GB + 32 Port + 48 Drive)    P0.74PB
+PMAX8000    8E * (2.G GHz * 36 Core * 16 Ctl + 2,048 GB + 32 port + 36 Drive)   P2.2PB
+
+
